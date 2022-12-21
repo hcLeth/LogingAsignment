@@ -1,0 +1,8 @@
+Refactored MainLoop method to be more readable by extracting functionality to class implementing interfaces,
+to also allow me to create fakes for unit testing.
+
+removed f > 5 check as I could not see any reason for it other than being in the way
+
+Renaming of things
+
+Replaced Threading with async/await for efficiency and readability
