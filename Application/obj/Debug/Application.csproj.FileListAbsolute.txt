@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\Application.exe.config
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\Application.exe
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\Application.pdb
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\LogComponent.dll
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\LogComponent.pdb
+C:\Users\PC\Desktop\mpay\Application\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\mpay\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\mpay\Application\obj\Debug\Application.csproj.CopyComplete
+C:\Users\PC\Desktop\mpay\Application\obj\Debug\Application.exe
+C:\Users\PC\Desktop\mpay\Application\obj\Debug\Application.pdb
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\PC\Desktop\mpay\Application\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml

@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\mpay\LogComponent\bin\Debug\LogComponent.dll
+C:\Users\PC\Desktop\mpay\LogComponent\bin\Debug\LogComponent.pdb
+C:\Users\PC\Desktop\mpay\LogComponent\obj\Debug\LogComponent.dll
+C:\Users\PC\Desktop\mpay\LogComponent\obj\Debug\LogComponent.pdb
+C:\Users\PC\Desktop\mpay\LogComponent\obj\Debug\LogComponent.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\mpay\LogComponent\obj\Debug\LogComponent.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\mpay\LogComponent\bin\Debug\TestableIO.System.IO.Abstractions.dll
+C:\Users\PC\Desktop\mpay\LogComponent\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+C:\Users\PC\Desktop\mpay\LogComponent\bin\Debug\TestableIO.System.IO.Abstractions.xml
+C:\Users\PC\Desktop\mpay\LogComponent\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+C:\Users\PC\Desktop\mpay\LogComponent\obj\Debug\LogComponent.csproj.CopyComplete

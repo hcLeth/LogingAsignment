@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/Build/BuildTool/MsbuildVersion/@EntryValue">1114112</s:Int64>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\dotnet\sdk\7.0.101\MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6189aaaf_002D2797_002D4537_002Da3ff_002D9755018d9319/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Tests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=fa017996_002Df3c7_002D4154_002Da8b0_002D15dfeb8b5433/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Test1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.Test3&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.TestWriteLogLine&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.TestStopWithFlush&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.TestStopWithoutFlush&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.Test2&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.IntegrationTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.TestLogWritesSomethingWhenCalled&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.TestFileCreatorCalledOnDateChange&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::45B2D7F3-0B68-4633-BBD5-1DF7F69A2F49::net7.0::LoggerTests.Tests.TestFileCreatorNotCalledWhenNoDateChange&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
